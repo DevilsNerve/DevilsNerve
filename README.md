@@ -1,5 +1,5 @@
 
-<h1 align="right">DevilsNerve</h1>
+<h1 align="right">DevilsNerve!(https://github.com/your-username/your-repository/raw/main/avatar.gif)</h1>
 
 
 ```json
