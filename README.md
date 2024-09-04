@@ -17,7 +17,7 @@
 
 <br>
 
-<a href="https://github.com/voku"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=DevilsNerve&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/DevilsNerve"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=DevilsNerve&show_icons=true" align="right" height="150" /></a>
 
 <div align="left">
 
