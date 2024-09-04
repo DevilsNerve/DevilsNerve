@@ -51,7 +51,7 @@
 <!-- Second Profile -->
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=austengreen-legislature&show_icons=true&locale=en&layout=compact" alt="austengreen-legislature" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austengreen-legislature&" alt="austengreen-legislature" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austengreen-legislature" alt="austengreen-legislature" />
 </div>
 
  
