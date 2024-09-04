@@ -23,7 +23,7 @@
 
 |  Topic | Link |
 | ------------- | ------------- |
-| E-Mail  | <a target="_blank" href="mailto:admin@devilsnerve.com"></a> 
+| E-Mail  | <a target="_blank" href="mailto:admin@devilsnerve.com">admin@devilsnerve.com</a> 
 
  </div>
 
