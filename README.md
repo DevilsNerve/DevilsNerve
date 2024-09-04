@@ -1,5 +1,13 @@
-
-<h1 align="right">DevilsNerve!(https://github.com/your-username/your-repository/raw/main/avatar.gif)</h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://raw.githubusercontent.com/DevilsNerve/DevilsNerve/main/avatar.gif" alt="My Avatar" style="width: 200px; height: auto;">
+    </td>
+    <td align="right">
+      <h1>DevilsNerve</h1>
+    </td>
+  </tr>
+</table>
 
 
 ```json
