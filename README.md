@@ -19,7 +19,7 @@
   "stack":    ["PHP", "MySQL", "HTML", "CSS", "JS", "Python", "Ruby on Rails", "jQuery", "Bash", "..."],
   "interest": ["Clean Code", "Testing", "Static Code Analysis", "Obfuscation", "..."], 
   "quote":    "It’s not a bug – it’s an undocumented feature. - Anonymous"
-  "extra":    "Dad of beautiful daughter."
+  "extra":    "Dad of beautiful daughter and handsome son."
 }
 ```
 
